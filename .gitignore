@@ -4,3 +4,5 @@ run.sh
 .*.zip
 .token
 .jobid
+.Xil
+Makefile
